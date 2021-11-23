@@ -1,0 +1,9 @@
+#TaskGoal
+bool mode
+float64 duration
+---
+#TaskResult
+bool done
+---
+#TaskFeedback
+float32 rate
